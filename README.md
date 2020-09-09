@@ -1,4 +1,4 @@
-# Eenvoude p5js starter
+# Eenvoudige p5js starter
 
 Dit template is een eenvoudige startframe voor een p5js-canvast in op een webpagina
 
